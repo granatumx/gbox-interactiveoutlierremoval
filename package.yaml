@@ -1,9 +1,9 @@
-id: official_py_docker-{VER}
+id: interactiveoutlierremoval-{VER}
 
 meta:
   maintainer:
-    name: Xun Zhu
-    email: zhuxun@gmail.com
+    name: GranatumX
+    email: lana.garmire.group@gmail.com
 
 gboxes:
   - ./yamls/interactive_outlier_removal.yaml
